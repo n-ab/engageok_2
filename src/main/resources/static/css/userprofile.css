@@ -1,0 +1,13 @@
+.logout{
+	float:right;
+}
+a {
+	text-decoration:none;
+	margin-left:27px;
+	color:#f4f7fc;
+}
+.header{
+	padding: 10px 10px 10px 10px;
+	background-color:#122344;
+	color:#f4f7fc;
+}
